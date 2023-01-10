@@ -1,0 +1,50 @@
+header{
+    background-size:100%;
+    height:350px;
+    background-image: url(file:///Users/kyliedebono/Desktop/Web%20design%20assignment%20photos/Casino-Games-by-Michael-Blann-GettyImages-200325572-001-5c26042d46e0fb00017bb4b3.jpg);
+    opacity: 0.6;
+}
+.nav{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(180, 173, 173);
+    
+}
+
+h1{
+    font-size: 400%;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+ text-decoration: wavy;
+ padding-top: 70px;
+ color: navy;
+ 
+}
+
+a:link{
+    color:navy;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display:inline-block;
+  }
+
+  a:hover { 
+    color: black;
+    text-decoration: underline;
+    background-color: white;
+  }
+
+main{
+    background-image: url("https://www.shutterstock.com/image-illustration/casino-craps-chips-background-cool-260nw-1017270622.jpg");
+    color: white;
+}
+
+h2{
+    font-size: 200%;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+ text-decoration: wavy;
+ padding-top: 70px;
+ color: white;
+  }
